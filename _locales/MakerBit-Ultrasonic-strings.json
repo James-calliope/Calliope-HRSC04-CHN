@@ -1,0 +1,11 @@
+{
+  "DistanceUnit.CM|block": "厘米",
+  "DistanceUnit.INCH|block": "英寸",
+  "makerbit.connectUltrasonicDistanceSensor|block": "传感器引脚设置 | 连接Trig引脚到 %trig | 连接Echo引脚到 %echo",
+  "makerbit.getUltrasonicDistance|block": "探测到的物体距离，单位：%unit",
+  "makerbit.isUltrasonicDistanceLessThan|block": "探测到的物体距离小于 |%distance|%unit",
+  "makerbit.onUltrasonicObjectDetected|block": "当探测到的物体距离小于 | %distance | %unit",
+  "makerbit|block": "MakerBit",
+  "{id:category}Makerbit": "Makerbit",
+  "{id:subcategory}Ultrasonic": "Ultrasonic"
+}

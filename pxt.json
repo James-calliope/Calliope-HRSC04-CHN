@@ -1,0 +1,19 @@
+{
+    "name": "HC-SR04超声波传感器",
+    "version": "1.0.6",
+    "description": "HC-SR04超声波传感器扩展库汉化版",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "namespace.ts",
+        "README.md",
+        "ultrasonic.ts",
+        "_locales/de/MakerBit-Ultrasonic-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
